@@ -1,7 +1,7 @@
 {
     "playingGames": [240],
-    "onlinestatus": 1,
-    "afkMessage": "Hi, I'm idling.",
+    "onlinestatus": 7,
+    "afkMessage": "",
     "loginDelay": 2000,
     "relogDelay": 15000,
     "useLocalIP": true,
